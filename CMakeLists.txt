@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.1)
+list(APPEND CMAKE_PREFIX_PATH /home/hadeer/Documents/install)
+project(MY)
+find_package(HPX REQUIRED)
+add_executable(my main.cpp)
+target_link_libraries(my HPX::iostreams_component HPX::wrap_main)
