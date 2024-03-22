@@ -56,7 +56,7 @@ int hpx_main(int argc, char* argv[])
         R2=C1=2;
         R1=C2=3;
         l=0;
-        u=1;
+        u=3;
 
     }
 
