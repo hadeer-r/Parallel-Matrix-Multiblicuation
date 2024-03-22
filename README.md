@@ -13,5 +13,5 @@ Install
 ```
 - it will generate random matrix from 1 to 3
 - if you want to specify size of matrix and range value, you should run this command
-6. './result <number or Row1> <number of Column1 and Row2> <number of Column2> <lower_limit> <upper_limit>'
+6. `./result <number or Row1> <number of Column1 and Row2> <number of Column2> <lower_limit> <upper_limit>`
   - Column1 and Row2 are equals so you pass one value for two numbers
