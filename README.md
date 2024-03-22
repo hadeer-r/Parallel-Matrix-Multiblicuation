@@ -1,7 +1,7 @@
 ### requirements to run application
 Install
 1. hpX library from [here](https://hpx-docs.stellar-group.org/latest/html/manual/building_hpx.html)
-2. cmake at least version (3.2)
+2. cmake at least version (3.19)
 
 #### step to run
 ```
